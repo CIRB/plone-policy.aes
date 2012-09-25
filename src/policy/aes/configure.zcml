@@ -1,0 +1,24 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:five="http://namespaces.zope.org/five"
+    xmlns:i18n="http://namespaces.zope.org/i18n"
+    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    i18n_domain="policy.aes">
+
+  <five:registerPackage package="." initialize=".initialize" />
+
+  <genericsetup:registerProfile
+      name="default"
+      title="policy.aes"
+      directory="profiles/default"
+      description="Installs the policy.aes package"
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+  <!-- -*- extra stuff goes here -*- -->
+  <include package="plonetheme.acuccle" />
+  <include package="Products.CMFPlomino" />
+  <include package="Products.TinyMCE" />
+  <include package="plomino.tinymce" />
+  <include package="collective.js.datatables" />
+  
+</configure>

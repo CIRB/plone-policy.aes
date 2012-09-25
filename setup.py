@@ -36,6 +36,8 @@ setup(name='policy.aes',
       install_requires=[
           'setuptools',
           # -*- Extra requirements: -*-
+          'plonetheme.acuccle'
+         
       ],
       extras_require={'test': ['plone.app.testing']},
       entry_points="""

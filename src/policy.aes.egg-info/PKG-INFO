@@ -1,4 +1,4 @@
-Metadata-Version: 1.1
+Metadata-Version: 1.0
 Name: policy.aes
 Version: 1.0
 Summary: 'policy of Activites ExtraScolaires site'
@@ -29,7 +29,7 @@ Description: .. contents::
         --------------------
         
         - Package created using templer
-          []
+        
         
 Platform: UNKNOWN
 Classifier: Programming Language :: Python

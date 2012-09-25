@@ -1,4 +1,5 @@
 setuptools
+plonetheme.acuccle
 
 [test]
 plone.app.testing

@@ -36,7 +36,14 @@ setup(name='policy.aes',
       install_requires=[
           'setuptools',
           # -*- Extra requirements: -*-
-          'plonetheme.acuccle'
+          'plonetheme.acuccle',
+	  'collective.ckeditor',
+	  'quintagroup.analytics',
+          'collective.easyslider',
+	  'Products.CMFPlomino',
+	  'Products.TinyMCE',
+	  'plomino.tinymce',
+          'collective.js.datatables'
          
       ],
       extras_require={'test': ['plone.app.testing']},

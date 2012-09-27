@@ -20,5 +20,7 @@
   <include package="Products.TinyMCE" />
   <include package="plomino.tinymce" />
   <include package="collective.js.datatables" />
-  
+  <include package="collective.ckeditor" />
+  <include package="quintagroup.analytics" />
+  <include package="collective.easyslider" />  
 </configure>

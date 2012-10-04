@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: policy.aes
-Version: 1.0
+Version: 1.0.1
 Summary: 'policy of Activites ExtraScolaires site'
 Home-page: http://svn.plone.org/svn/collective/
 Author: UNKNOWN
@@ -25,8 +25,8 @@ Description: .. contents::
         Changelog
         =========
         
-        1.0-dev (unreleased)
-        --------------------
+        1.0.1 (2012-10-04)
+        ------------------
         
         - Package created using templer
         

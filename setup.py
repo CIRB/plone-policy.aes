@@ -44,7 +44,11 @@ setup(name='policy.aes',
           'Products.TinyMCE',
           'plomino.tinymce',
           'collective.js.datatables',
-          'Products.PloneFormGen'   
+          'Products.PloneFormGen',
+          'collective.gallery',
+          'collective.recaptcha',
+          'Solgema.fullcalendar',
+          #'wildcard.fixpersistentutilities'
       ],
       extras_require={'test': ['plone.app.testing']},
       entry_points="""

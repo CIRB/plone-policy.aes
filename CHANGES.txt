@@ -4,8 +4,11 @@ Changelog
 1.0.3 (unreleased)
 ------------------
 
-- Nothing changed yet.
-
+- Add 'Products.PloneFormGen',
+- Add 'collective.gallery',
+- Add 'collective.recaptcha',
+- Add 'Solgema.fullcalendar',
+- All for migration.
 
 1.0.2 (2012-10-24)
 ------------------

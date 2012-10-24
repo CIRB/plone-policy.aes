@@ -4,7 +4,7 @@ Changelog
 1.0.2 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add PloneFormGen.
 
 
 1.0.1 (2012-10-04)

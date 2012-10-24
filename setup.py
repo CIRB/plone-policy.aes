@@ -37,15 +37,14 @@ setup(name='policy.aes',
           'setuptools',
           # -*- Extra requirements: -*-
           'plonetheme.acuccle',
-	  'collective.ckeditor',
-	  'quintagroup.analytics',
+          'collective.ckeditor',
+          'quintagroup.analytics',
           'collective.easyslider',
-	  'Products.CMFPlomino',
-	  'Products.TinyMCE',
-	  'plomino.tinymce',
+          'Products.CMFPlomino',
+          'Products.TinyMCE',
+          'plomino.tinymce',
           'collective.js.datatables',
-	  'Products.PloneFormGen'
-         
+          'Products.PloneFormGen'   
       ],
       extras_require={'test': ['plone.app.testing']},
       entry_points="""

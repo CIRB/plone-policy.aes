@@ -43,7 +43,8 @@ setup(name='policy.aes',
 	  'Products.CMFPlomino',
 	  'Products.TinyMCE',
 	  'plomino.tinymce',
-          'collective.js.datatables'
+          'collective.js.datatables',
+	  'Products.PloneFormGen'
          
       ],
       extras_require={'test': ['plone.app.testing']},
